@@ -14,8 +14,9 @@ using namespace std;
  * 
  */
 int main(int argc, char** argv) {
-    
+    int hey;
     cout << "This is a test for using Github." << endl;
+    cin >> hey;
 
     return 0;
 }
